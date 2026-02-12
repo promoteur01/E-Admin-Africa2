@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of E-admin.Africa",
+  "description": "A comprehensive web platform allowing African clients to access administrative, professional, and personal services securely and without travel.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
